@@ -1,0 +1,15 @@
+C:\Users\potte\Desktop\6\assignments\helpers\bin\Debug\net6.0\environment.exe
+C:\Users\potte\Desktop\6\assignments\helpers\bin\Debug\net6.0\environment.deps.json
+C:\Users\potte\Desktop\6\assignments\helpers\bin\Debug\net6.0\environment.runtimeconfig.json
+C:\Users\potte\Desktop\6\assignments\helpers\bin\Debug\net6.0\environment.dll
+C:\Users\potte\Desktop\6\assignments\helpers\bin\Debug\net6.0\environment.pdb
+C:\Users\potte\Desktop\6\assignments\helpers\obj\Debug\net6.0\environment.csproj.AssemblyReference.cache
+C:\Users\potte\Desktop\6\assignments\helpers\obj\Debug\net6.0\environment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\potte\Desktop\6\assignments\helpers\obj\Debug\net6.0\environment.AssemblyInfoInputs.cache
+C:\Users\potte\Desktop\6\assignments\helpers\obj\Debug\net6.0\environment.AssemblyInfo.cs
+C:\Users\potte\Desktop\6\assignments\helpers\obj\Debug\net6.0\environment.csproj.CoreCompileInputs.cache
+C:\Users\potte\Desktop\6\assignments\helpers\obj\Debug\net6.0\environment.dll
+C:\Users\potte\Desktop\6\assignments\helpers\obj\Debug\net6.0\refint\environment.dll
+C:\Users\potte\Desktop\6\assignments\helpers\obj\Debug\net6.0\environment.pdb
+C:\Users\potte\Desktop\6\assignments\helpers\obj\Debug\net6.0\environment.genruntimeconfig.cache
+C:\Users\potte\Desktop\6\assignments\helpers\obj\Debug\net6.0\ref\environment.dll
