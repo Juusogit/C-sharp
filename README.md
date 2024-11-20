@@ -1,1 +1,1 @@
-These are my course assignments from my C# course.
+Course assignments from C# course.
