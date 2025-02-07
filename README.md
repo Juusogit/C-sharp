@@ -1,1 +1,1 @@
-Course assignments from C# course.
+Course assignments from C# course. Grade 4/5.
